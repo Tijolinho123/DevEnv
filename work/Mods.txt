@@ -1,0 +1,116 @@
+-[ ] Advancement Plaques
+-[ ] Ambient Sounds
+-[ ] AppleSkin
+-[ ] Auditory
+-[ ] Better Advancements
+-[ ] BetterF3
+-[ ] Better Than Mending
+-[ ] Better Third Person
+-[ ] Bridging Mod
+-[ ] C2ME
+-[ ] Camera Overhaul
+-[ ] Camera Utils
+-[ ] Cherished Worlds
+-[x] Cloth Config API
+-[ ] Clumps
+-[ ] Cobweb
+-[ ] Collective
+-[ ] Comforts
+-[ ] Connectible Chains
+-[x] Continuity
+-[ ] CreativeCore
+-[ ] Creative Fly
+-[ ] Cristel Lib
+-[ ] Cull Leaves
+-[ ] Data Loader
+-[ ] Diagonal Fences
+-[ ] Disable Custom Worlds Advice
+-[ Need to make work with iris ] Distant Horizons
+-[ ] Dungeons and Taverns
+-[ ] Easy Anvils
+-[ ] Easy Magic
+-[ ] Easy Elytra Takeoff
+-[ ] Eating Animation
+-[ ] Eldritch Mobs
+-[ ] EnhancedVisuals
+-[x] Entity Model Features
+-[x] Entity Texture Features
+-[x] Entity Culling
+-[ ] Euphoria Patches
+-[x] Fabric API
+-[ ] Falling Leaves
+-[ ] FallingTree
+-[ ] Farmer's Delight Refabricated
+-[ ] Fast Minecart
+-[ ] First-person model
+-[ ] Forge Config API Port
+-[ ] HerdsPanic
+-[ ] Item Highlighter
+-[ ] Horse Buff
+-[ ] Iceberg
+-[ ] ImmersiveThunder
+-[ ] Incendium
+-[x] Indium
+-[ ] InvMove
+-[ ] Iris
+-[ ] Borders
+-[ ] JamLib
+-[ ] Kiwi
+-[ ] Legendary Tooltips
+-[x] Lithium
+-[ ] Lootr
+-[x] ModernFix
+-[x] Mod Menu
+-[ ] More Mob Variants
+-[ ] Mouse Tweaks
+-[ ] MRU
+-[ ] Noisium
+-[ ] Not Enough Animations
+-[ ] Nullscape
+-[ ] Nyf's Spiders
+-[ ] owo-lib
+-[ ] Particular
+-[ ] Presence Footsteps
+-[ ] Prism
+-[?] PuzzlesLib
+-[ ] Reforged
+-[ ] Replay Mod
+-[ ] RightClickHarvest
+-[ ] RpgDifficulty
+-[ ] ScalableLux
+-[ ] Shulker Box Tooltip
+-[ ] Snow! Real Magic
+-[x] Sodium
+-[ ] Soul fire'd
+-[ ] Sounds Physics Remastered
+-[ ] Sounds
+-[ ] Sparse Structures
+-[ ] Structory
+-[ ] SuperBetterGrass
+-[ ] Towns and Towers
+-[x] Tectonic
+-[x] Terralith
+-[ ] Tiny Item Animations
+-[ ] Tiny Skeletons
+-[ ] Trade Cycling
+-[ ] Trinkets
+-[ ] UnionLib
+-[ ] Universal Bone Meal
+-[ ] Vanilla Refresh
+-[ ] Visuality
+-[ ] Simple Voice Chat
+-[ ] Wakes
+-[ ] WorldEdit
+-[ ] Astraliyte's Animated Textures
+-[ ] Compact Font
+-[ ] Enchant Icons
+-[ ] Fancy Crops
+-[ ] Fat Cat
+-[ ] Fresh Animations
+-[ ] Invisible Item Frames
+-[ ] Overlay's
+-[ ] Simple Grass Flowers
+-[ ] Vanilla Tweaks
+-[ ] Vervada's enhanced plants
+-[ ] Complementary Unbound
+-[MEU] CustomSkinLoader
